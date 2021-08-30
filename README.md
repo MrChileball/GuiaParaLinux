@@ -12,6 +12,6 @@ discord: chileball#7240
 no recomiendo usar linux como tu sistema principal si:
 
 - tus juegos favoritos son apex legends, fortnite, rogue company o algun juego que su anticheat no sea compatible con linux (para más información mira protondb o mira la wiki)
-- photoshop y toda la suite de adobe
-- office (exiten muchos reemplazos como libreOffice, WPSoffice o usar la suite de google desde el navegador)
+- usas photoshop y toda la suite de adobe
+- usas microsoft office (exiten muchos reemplazos como libreOffice, WPSoffice o usar la suite de google desde el navegador)
 - no quieres aprender a trastear tu computador y te interesa más que funcione sin modificar o decorar nada
